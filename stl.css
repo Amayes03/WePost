@@ -1,0 +1,14 @@
+
+body{
+    background-image: url(pay.jpg);
+    background-size: cover;
+
+}
+ img{
+    float: right;
+    width: 15%;
+    margin-right: 10%;
+    border: 1px solid;
+    padding: 10px;
+    margin-top: 5%;
+ }

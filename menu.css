@@ -1,0 +1,16 @@
+.navbar-brand{
+    font-size: 167%;
+    color: white!important;
+    margin-left: 3%;
+ }
+.nav-link{
+   color: white!important;
+   margin-right: 5%;
+}
+
+.bg-body-tertiary{
+        background-color: rgba(240, 248, 255, 0) !important;
+    }
+    .navbar navbar-expand-lg bg-body-tertiary{
+        background-color: rgba(0, 255, 255, 0);
+    }

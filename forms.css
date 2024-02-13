@@ -1,0 +1,19 @@
+
+ body{
+    background-color: rgb(42, 42, 42)!important;
+    background-image: url(pay.jpg);
+    background-size: cover;
+ }
+ h1{
+ color: rgb(103, 100, 100)! important;
+ text-align: center;
+ padding-top: 5%;
+ }
+form{
+   text-align: left;
+   margin-left: 30%;
+   margin-top: 5%;
+   color: whitesmoke;
+   position: absolute;
+
+}
